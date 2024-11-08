@@ -30,7 +30,7 @@ The repository is organized as follows:
 
 The machine learning (ML) component plays a crucial role in detecting and mapping damage. It uses trained models to classify and assess damage levels in real-time.
 
-For detailed information about the ML model setup, training, testing, and parameter adjustments, please refer to the [Machine Learning README](./Detection and mapping -system/README.md). This separate README will provide comprehensive instructions and documentation specific to the ML part of the project.
+For detailed information about the ML model setup, training, testing, and parameter adjustments, please refer to the [Machine Learning README](https://github.com/GarbhitSh/SATML-LORA-Damage-Response/blob/main/Lora%20Alerts%20App/README.md). This separate README will provide comprehensive instructions and documentation specific to the ML part of the project.
 
 ## LoRa Module for Wireless Communication
 
@@ -49,5 +49,5 @@ The **LoRa Module** is designed for long-range, low-power wireless communication
 2. **Configuration**: Adjust the configuration files in this folder to set network parameters such as frequency, spreading factor, and bandwidth.
 3. **Testing**: Run the test scripts to verify communication between devices.
 
-- **Download the App**: [LoRa Alerts App APK (app-release-14.apk)](./Lora%20Alerts%20App/app-release-14.apk)
+- **Download the App**: [LoRa Alerts App APK (app-release-14.apk)](https://drive.google.com/file/d/1isQjHEmAUnb-ht9KaNGDpK3rMCysYGE-/view?usp=sharing)
 
