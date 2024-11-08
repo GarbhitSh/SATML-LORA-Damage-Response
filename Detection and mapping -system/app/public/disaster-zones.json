@@ -1,0 +1,44 @@
+[
+    {
+        "id": "74698739-0104-4d31-a42b-930646e41127",
+        "name": "New Orleans",
+        "center": {
+            "lat": 30.0312644,
+            "lng": -90.0227344,
+            "zoom": 10
+        },
+        "beforeLayer": {
+            "urlTemplate": "https://disavu.silentbyte.com/tiles/rgb/105001001E0A3300/{z}/{x}/{y}.png?r=1&r_range=[0,255]&g=2&g_range=[0,255]&b=3&b_range=[0,255]",
+            "attributionHtml": "&copy; <a href=\\\"https://www.maxar.com/open-data\\\">Maxar</a>"
+        },
+        "afterLayer": {
+            "urlTemplate": "https://disavu.silentbyte.com/tiles/rgb/10300100C540A500/{z}/{x}/{y}.png?r=1&r_range=[0,255]&g=2&g_range=[0,255]&b=3&b_range=[0,255]",
+            "attributionHtml": "&copy; <a href=\\\"https://www.maxar.com/open-data\\\">Maxar</a>"
+        },
+        "amenitiesUrl": "https://disavu.silentbyte.com/geoserv/geo/new-orleans/amenities",
+        "affectedStructuresUrl": "https://disavu.silentbyte.com/geoserv/geo/new-orleans/structures-affected",
+        "unaffectedStructuresUrl": "https://disavu.silentbyte.com/geoserv/geo/new-orleans/structures-unaffected",
+        "heatmapUrl": "https://disavu.silentbyte.com/geoserv/geo/new-orleans/structures-affected/heatmap"
+    },
+    {
+        "id": "83c6f91d-7c3a-4a43-83f3-9f3541dc6441",
+        "name": "Oman",
+        "center": {
+            "lat": 23.5909276,
+            "lng": 58.5182752,
+            "zoom": 10
+        },
+        "beforeLayer": {
+            "urlTemplate": "https://disavu.silentbyte.com/tiles/rgb/10500100271BF800/{z}/{x}/{y}.png?r=1&r_range=[0,255]&g=2&g_range=[0,255]&b=3&b_range=[0,255]",
+            "attributionHtml": "&copy; <a href=\\\"https://www.maxar.com/open-data\\\">Maxar</a>"
+        },
+        "afterLayer": {
+            "urlTemplate": "https://disavu.silentbyte.com/tiles/rgb/1050010027849000/{z}/{x}/{y}.png?r=1&r_range=[0,255]&g=2&g_range=[0,255]&b=3&b_range=[0,255]",
+            "attributionHtml": "&copy; <a href=\\\"https://www.maxar.com/open-data\\\">Maxar</a>"
+        },
+        "amenitiesUrl": null,
+        "affectedStructuresUrl": "https://disavu.silentbyte.com/geoserv/geo/oman/structures-affected",
+        "unaffectedStructuresUrl": "https://disavu.silentbyte.com/geoserv/geo/oman/structures-unaffected",
+        "heatmapUrl": "https://disavu.silentbyte.com/geoserv/geo/oman/structures-affected/heatmap"
+    }
+]
