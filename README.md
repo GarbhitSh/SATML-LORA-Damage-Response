@@ -30,7 +30,7 @@ The repository is organized as follows:
 
 The machine learning (ML) component plays a crucial role in detecting and mapping damage. It uses trained models to classify and assess damage levels in real-time.
 
-For detailed information about the ML model setup, training, testing, and parameter adjustments, please refer to the [Machine Learning README](https://github.com/GarbhitSh/SATML-LORA-Damage-Response/blob/main/Lora%20Alerts%20App/README.md). This separate README will provide comprehensive instructions and documentation specific to the ML part of the project.
+For detailed information about the ML model setup, training, testing, and parameter adjustments, please refer to the [Machine Learning README](https://github.com/GarbhitSh/SATML-LORA-Damage-Response/blob/main/Detection%20and%20mapping%20-system/README.md). This separate README will provide comprehensive instructions and documentation specific to the ML part of the project.
 
 ## LoRa Module for Wireless Communication
 
